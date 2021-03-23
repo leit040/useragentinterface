@@ -1,0 +1,19 @@
+{
+  "name": "leit040/useragentinterface",
+  "type": "package",
+  "description": "Interface for UserAgent service.",
+  "keywords": [
+    "Useragent",
+    "laravel"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Leit040\\Geo\\": "./src"
+    }
+  }
+
+}
+
+
+
+
